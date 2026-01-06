@@ -149,7 +149,7 @@ We welcome translations into any language! Follow the same process as above, usi
 
 ### Locale Naming Convention
 
-- Use ISO language-region format: `zh-CN`, `fr-CA`, `pt-BR`, etc.
+- Use ISO language-region format: `zh-CN`, `fr-CI`, `pt-BR`, etc.
 - File names: `LocCompetencies_[locale].html` and `[locale-lowercase].json`
 
 ---
